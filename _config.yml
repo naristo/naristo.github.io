@@ -96,7 +96,9 @@ actions:
     # Set to true if the URL should remain unchanged, which means each post will share the same edit link.
     static_url: false # [ true | false ]
 timezone: Asia/Jakarta
-copyright: "© 2026 Nia Aristo. All rights reserved."
+copyright:
+  year: 2026
+  name: "Nia Aristo"
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
   provider: # [disqus | utterances | giscus]
