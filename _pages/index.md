@@ -18,3 +18,9 @@ I am Nia Aristo, a Solutions Engineer at Cisco focused on helping organizations 
 - Platform Engineering
 - Observability
 - Site Reliability Engineering
+
+## 📌 Latest Posts
+
+{% for post in site.posts limit:3 %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
