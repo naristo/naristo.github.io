@@ -21,7 +21,7 @@ description: >
   Kubernetes, DevOps, Observability and Automation.
 
 url: "https://naristo.github.io"
-baseurl: "naristo"
+baseurl: "naristo.github.io"
 
 # Site Verification Settings
 webmaster_verifications:
