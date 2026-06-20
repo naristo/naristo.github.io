@@ -4,6 +4,7 @@ title: "Running Local LLMs on Handheld Gaming PCs"
 date: 2026-06-23
 categories: [AI]
 tags: [LLM, AI, MSI Claw, Ollama]
+layout: post
 ---------------------------------
 
 # Running Local LLMs on Handheld Gaming PCs

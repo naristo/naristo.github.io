@@ -4,6 +4,7 @@ title: "Observability Beyond Monitoring"
 date: 2026-06-21
 categories: [Observability]
 tags: [AppDynamics, Monitoring]
+layout: post
 ------------------------------------------
 
 # Observability Beyond Monitoring
