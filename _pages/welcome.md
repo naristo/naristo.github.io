@@ -1,8 +1,9 @@
 ---
 title: Welcome
-categories: [Career]
-tags: [Cloud, Kubernetes, DevOps]
 pin: true
+layout: page
+icon: fas fa-home
+order: 1
 ---
 
 # Welcome
